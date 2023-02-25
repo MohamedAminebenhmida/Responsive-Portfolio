@@ -7,19 +7,21 @@ import Testimonials from './sections/testimonials/Testimonials'
 import Faqs from './sections/faqs/Faqs'
 import Contact from './sections/contact/Contact'
 import Footer  from './sections/footer/Footer'
-import FloatingNav from './sections/floating nav/FloatingNav'
+import FloatingNav from './sections/floating-nav/FloatingNav'
+import Experience from './sections/experience/Experience'
 const App =()=>(
 <main>
 <NavBar />
 <Header />
 <About />
+<Experience/>
 <Services/>
 <Portfolio/>
 <Testimonials/>
 <Faqs/>
 <Contact/>
 <Footer/>
-<FloatingNav />
+<FloatingNav/>
 </main>
 
 
