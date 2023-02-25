@@ -11,9 +11,10 @@ const Experience = () => {
     const [Colore,setColore]=useState(violet);
   return (
     <section id="experience">
+        <div className="experience-item">
      <h5>What skills I have</h5>
      <h2>My Experience</h2>
-
+        </div>
      <div className='container experience__container'>
         <div className="experience__frontend" onMouseEnter={()=>setColore(white)} style={{color:Colore}}>
             

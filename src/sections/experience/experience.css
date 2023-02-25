@@ -1,3 +1,7 @@
+.experience-item{
+text-align: center;
+margin-bottom: 2rem;
+}
 .experience__container{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -44,5 +48,20 @@ border: 1px solid transparent;
     padding: 2rem;
     margin: 0 auto;
 }
+.experience__content{
+    padding: 1rem;
+}
+}
+/* Media Queries (Small Devices) */
+@media screen and (max-width:600px) {
+    .experience__container {
+            gap: 1rem;
+        }
+    
+        .experience__container>div {
+            width: 100%;
+            padding: 2rem 1rem;
+            margin: 0 auto;
+        }
 }
 
