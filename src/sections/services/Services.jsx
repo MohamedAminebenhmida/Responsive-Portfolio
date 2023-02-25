@@ -15,23 +15,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>User Interface (UI) Design</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>User Experience (UX) Design</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Web Portals</p>
             </li>
              <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Portfolio Showcase</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Testimonials</p>
             </li>           
           </ul>
         </article>
@@ -43,23 +43,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Password-Protected Page</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Email Newsletter</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Web Hosting</p>
             </li>
              <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Web Site Maintenance</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>(CRM) Integration</p>
             </li>           
           </ul>
           </article>
@@ -71,23 +71,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Social Media Integration</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Business Directory</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Booking / Availability System</p>
             </li>
              <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Blog / News Management</p>
             </li>
             <li>
              <BiCheck className='service__list-icon'/> 
-            <p>Design the best model ever</p>
+            <p>Membership System</p>
             </li>           
           </ul>
           </article>
