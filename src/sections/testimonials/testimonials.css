@@ -1,3 +1,7 @@
+.testimonial-item{
+    text-align: center;
+    margin-bottom: 2rem;
+}
 .container.testimonials__container{
     width: 40%;
     padding: 4rem;
