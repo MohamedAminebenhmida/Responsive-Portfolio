@@ -22,11 +22,12 @@ background: rgba(0, 0, 0, 0.3);
     padding: 0.9rem;
     border-radius: 50%;
     display: flex;
-    color:var(--color-light);
+    color:var(--color-primary);
     font-size: 1.1rem;
 }
 .nav1 a:hover{
     background: var(--color-primary);
+    color: var(--color-light);
 }
 .nav1 a.active{
     background: var(--color-primary);
