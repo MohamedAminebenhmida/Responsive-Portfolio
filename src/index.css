@@ -132,6 +132,22 @@ img{
 .btn.sm{
     padding: 0.5rem 1.2rem;
 }
+.btn.dark{
+    background: rgba(191,191,191, 1);
+        color: rgba(191, 85, 236, 1);
+}
+.btn.dark:hover {
+    background: var(--color-light);
+    color: var(--color-primary);
+}
+.btn.prple{
+    background: rgba(191,85,236,1);
+    color:rgba(191, 191, 191, 1);
+}
+.btn.prple:hover{
+    background: var(--color-light);
+    color: var(--color-primary);
+}
 /*Media queries (tablets) */
 @media screen  and (max-width:1024px){
     body{
